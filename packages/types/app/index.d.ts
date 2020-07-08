@@ -9,7 +9,7 @@ import { NuxtRuntimeConfig } from '../config/runtime'
 import './vue'
 
 // augment typings of Vuex
-import './vuex'
+// import './vuex'
 
 type NuxtState = Record<string, any>
 
